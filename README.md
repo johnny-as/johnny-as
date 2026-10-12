@@ -1,7 +1,16 @@
-<h1 align="center">Olá, eu sou o Johnny Souza! 👋</h1>
+<h1 align="center">Hi, I'm Johnny Souza! 👋</h1>
 
 <p align="center">
-  <strong>Mid-level Full Stack Engineer</strong> especializado em criar aplicações web escaláveis, otimização de performance e soluções integradas com Inteligência Artificial[cite: 1, 2].
+  <a href="#-english-version">🇬🇧 English</a> | 
+  <a href="#-versão-em-português">🇧🇷 Português</a>
+</p>
+
+---
+
+## 🇬🇧 English Version
+
+<p align="center">
+  <strong>Mid-level Full Stack Engineer</strong> specializing in scalable web applications, performance optimization, and AI-integrated solutions.
 </p>
 
 <p align="center">
@@ -10,43 +19,75 @@
   <img src="https://img.shields.io/badge/Location-Hortol%C3%A2ndia%2C%20SP%2C%20Brazil-orange" alt="Location">
 </p>
 
+### 🚀 About Me
+
+* Full Stack Engineer with expertise in backend development, frontend implementation, database optimization, software architecture, API integrations, and AI-powered solutions.
+* Currently working at **Corrija-me**, having progressed from Trainee and Junior Developer to **Mid-level Full Stack Engineer**.
+* Strong track record in identifying and resolving performance bottlenecks, including eliminating ~97% of N+1 query-related issues via ORM optimization, indexing, and query refactoring.
+* Experienced in developing AI-powered features and intelligent agents that transform raw data into structured insights.
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages & Core:** PHP, JavaScript
+* **Frameworks & Libraries:** Laravel, Vue.js, Bootstrap
+* **Database:** MySQL
+* **Architecture & Practices:** API Integrations, Agile Practices, ORM Optimization, AI-powered Solutions
+* **Developer Tools:** Docker, PHPStorm, Trello, phpMyAdmin, SourceTree
+
+### 📈 Professional Experience
+
+* **Mid-level Full Stack Engineer at Corrija-me** *(Apr 2026 – Present)*
+  * Providing technical leadership in web systems evolution, architectural improvements, and code optimizations for scalability and reliability.
+  * Leading performance optimization in Laravel apps and developing advanced AI integrations.
+* **Junior Full Stack Engineer at Corrija-me** *(Apr 2023 – Mar 2026)*
+  * Continuous web system development and maintenance, feature enhancements, bug fixes, and adoption of modern practices like Docker.
+* **Trainee Full Stack Engineer at Corrija-me** *(May 2022 – Mar 2023)*
+  * Executed front-end and back-end tasks, bug fixes, system updates, and supported process automation.
+
+### 📬 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/johnnyasouza](https://www.linkedin.com/in/johnnyasouza/)
+* **Education:** Graduated from Fatec Americana "Ministro Ralph Biasí"
+
 ---
+
+<div id="-versão-em-português"></div>
+
+## 🇧🇷 Versão em Português
+
+<p align="center">
+  <strong>Engenheiro Full Stack Pleno</strong> especializado em aplicações web escaláveis, otimização de performance e soluções integradas com Inteligência Artificial.
+</p>
 
 ### 🚀 Sobre Mim
 
-* Sou um Engenheiro Full Stack com experiência em desenvolvimento backend, implementação frontend, otimização de banco de dados e arquitetura de software[cite: 2].
-* Atualmente atuo na **Corrija-me**, onde passei de Trainee e Desenvolvedor Júnior até assumir o papel de **Mid-level Full Stack Engineer**[cite: 3, 4].
-* Possuo um forte histórico na resolução de gargalos de performance, como a eliminação de cerca de 97% dos problemas relacionados a queries N+1 através de otimização de ORM, indexação e refatoração[cite: 2, 3].
-* Tenho grande interesse no desenvolvimento de recursos impulsionados por Inteligência Artificial, criando agentes de IA capazes de transformar dados brutos em insights estruturados[cite: 2, 3].
-
----
+* Engenheiro Full Stack com experiência em desenvolvimento backend, implementação frontend, otimização de banco de dados, arquitetura de software, integrações de API e soluções impulsionadas por IA.
+* Atualmente atuo na **Corrija-me**, onde evoluí de Trainee e Desenvolvedor Júnior até assumir o cargo de **Engenheiro Full Stack Pleno**.
+* Sólido histórico na identificação e resolução de gargalos de performance, eliminando cerca de 97% dos problemas relacionados a queries N+1 através de otimização de ORM, indexação e refatoração.
+* Experiência no desenvolvimento de recursos com Inteligência Artificial e agentes inteligentes que transformam dados brutos em insights estruturados.
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens & Core:** PHP[cite: 1, 2], JavaScript[cite: 1, 2]
-* **Frameworks & Bibliotecas:** Laravel[cite: 1, 2], Vue.js[cite: 1, 2], Bootstrap[cite: 2]
-* **Banco de Dados:** MySQL[cite: 2]
-* **Arquitetura & Práticas:** API Integrations[cite: 1, 2], Agile Practices[cite: 1], ORM Optimization, AI-powered Solutions[cite: 2]
-* **Ferramentas de Desenvolvimento:** Docker[cite: 4], PHPStorm[cite: 4], Trello[cite: 4], phpMyAdmin[cite: 4], SourceTree[cite: 4]
-
----
+* **Linguagens & Core:** PHP, JavaScript
+* **Frameworks & Bibliotecas:** Laravel, Vue.js, Bootstrap
+* **Banco de Dados:** MySQL
+* **Arquitetura & Práticas:** Integrações de API, Práticas Ágeis, Otimização de ORM, Soluções de IA
+* **Ferramentas:** Docker, PHPStorm, Trello, phpMyAdmin, SourceTree
 
 ### 📈 Experiência Profissional
 
-* **Mid-level Full Stack Engineer na Corrija-me** *(Abril de 2026 – Presente)*[cite: 3]
-  * Liderança técnica na evolução de sistemas web, melhorias arquiteturais e otimização de código para ganho de escalabilidade e confiabilidade[cite: 3].
-  * Foco em otimização de performance em aplicações Laravel e desenvolvimento de integrações avançadas com Inteligência Artificial[cite: 3].
-* **Junior Full Stack Engineer na Corrija-me** *(Abril de 2023 – Março de 2026)*[cite: 3]
-  * Desenvolvimento e manutenção contínua de sistemas web, melhorias de recursos, novas implementações e adoção de práticas modernas como Docker[cite: 3, 4].
-* **Trainee Full Stack Engineer na Corrija-me** *(Maio de 2022 – Março de 2023)*[cite: 4]
-  * Execução de tarefas de front-end e back-end, correções de bugs, automação de processos e suporte à evolução contínua dos sistemas[cite: 4].
+* **Engenheiro Full Stack Pleno na Corrija-me** *(Abr de 2026 – Presente)*
+  * Liderança técnica na evolução de sistemas web, melhorias arquiteturais e otimização de código para ganho de escalabilidade e confiabilidade.
+  * Foco em otimização de performance em aplicações Laravel e desenvolvimento de integrações avançadas com Inteligência Artificial.
+* **Engenheiro Full Stack Júnior na Corrija-me** *(Abr de 2023 – Mar de 2026)*
+  * Desenvolvimento e manutenção contínua de sistemas web, melhorias de recursos, novas implementações e adoção de práticas modernas como Docker.
+* **Engenheiro Full Stack Trainee na Corrija-me** *(Mai de 2022 – Mar de 2023)*
+  * Execução de tarefas de front-end e back-end, correções de bugs, automação de processos e suporte à evolução contínua dos sistemas.
 
----
+### 📬 Contato
 
-### 📬 Conecte-se Comigo
-
-* **LinkedIn:** [linkedin.com/in/johnnyasouza](https://www.linkedin.com/in/johnnyasouza/)[cite: 1]
-* **Formação:** Graduado pela Fatec Americana "Ministro Ralph Biasí"[cite: 1]
+* **LinkedIn:** [linkedin.com/in/johnnyasouza](https://www.linkedin.com/in/johnnyasouza/)
+* **Formação:** Graduado pela Fatec Americana "Ministro Ralph Biasí"
 
 ---
 <p align="center"><i>"Sonhos dão sentido à jornada, a determinação mantém os passos firmes e o diário transforma a realidade."</i></p>
