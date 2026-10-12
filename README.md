@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Working%20Hard-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-blue" alt="Role">
-  <img src="https://img.shields.io/badge/Location-Hortol%C3%A2ndia%2C%20SP%2C%20Brazil-orange" alt="Location">
+  <img src="https://img.shields.io/badge/Location-%20SP%2%20Brazil-orange" alt="Location">
 </p>
 
 ### 🚀 About Me
