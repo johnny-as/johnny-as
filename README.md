@@ -20,9 +20,6 @@
 </p>
 
 ### 🚀 About Me
-</p>
-
-### 🚀 About Me
 
 * Full Stack Engineer with expertise in backend development, frontend implementation, database optimization, software architecture, API integrations, and AI-powered solutions.
 * Currently working at **Corrija-me**, having progressed from Trainee and Junior Developer to **Mid-level Full Stack Engineer**.
